@@ -1,0 +1,16 @@
+{
+    "keys": [
+        {
+            "id": "Shift",
+            "keyout": "shiftleft",
+            "keyin": "d"
+        },
+        {
+            "id": "Zkey",
+            "keyout": "z",
+            "keyin": "f"
+        }
+    ],
+    "onetouch": "a",
+    "end": "esc"
+}
